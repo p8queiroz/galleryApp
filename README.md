@@ -1,2 +1,2 @@
 # galleryApp
-Project for learing Require.js and other important javascript libraries.
+Project for learning Require.js and other important javascript libraries.
